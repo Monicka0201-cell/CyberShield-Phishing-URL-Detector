@@ -1,0 +1,13 @@
+Synthetic dataset evaluation (120 URLs)
+Binary evaluation definition: Phishing=positive; Legitimate=negative. A detector result of Suspicious or Phishing is treated as a positive security flag.
+
+Accuracy: 1.000
+Precision: 1.000
+Recall: 1.000
+F1-score: 1.000
+
+Confusion matrix:
+TN=60, FP=0
+FN=0, TP=60
+
+Important: This is a synthetic academic dataset and the perfect/near-perfect result, if obtained, must not be interpreted as real-world detection performance.
